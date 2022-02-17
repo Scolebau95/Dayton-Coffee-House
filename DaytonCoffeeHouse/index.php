@@ -11,7 +11,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="shortcut icon" href="images/DCH.ico">
       <link rel="stylesheet" href="css/normalize.css">
-      <link rel="stylesheet" href="css/main.css">
+      <link rel="stylesheet" href="css/homepage.css">
   </head>
   <body>
       <header>
