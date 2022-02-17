@@ -15,16 +15,15 @@
   </head>
   <body>
       <header>
-          <h1>Dayton Coffee House</h1>
-          <hr>
+         <h1>Dayton Coffee House</h1>
+	        <ul>
+            <li><a href="Contact.php" target="nav">Contact</a></li>
+            <li><a href="HouseItems.php" target="nav">Menu</a></li>
+            <li><a href="OrderOnline.php" target="nav">Order Online</a></li>
+            <li><a href="Admin.php" target="nav">Admin</a></li>
+         </ul>		 
       </header>     
       <main>
-         <ul>
-            <li><a href="Contact.php">Contact</a></li>
-            <li><a href="HouseItems.php">Menu</a></li>
-            <li><a href="OrderOnline.php">Order Online</a></li>
-            <li><a href="Admin.php">Admin</a></li>
-         </ul>
          <img src="images/MainPicture.jpg" alt="homepagePic" id="homepagePic">
          <hr>
       </main>     

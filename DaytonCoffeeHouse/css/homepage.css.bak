@@ -1,3 +1,29 @@
-h1{
+body{
 	font-family: Garamond, serif;
+}
+
+header{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: Black;
+	width: 50%;
+	margin: auto;
+}
+
+a[target=nav]{
+	text-decoration: none;
+	
+}
+
+ul{
+	margin-left: 75%;
+}
+
+li{
+	display: inline;
+	color: white;
+}
+
+h1{
+	color: white;
 }

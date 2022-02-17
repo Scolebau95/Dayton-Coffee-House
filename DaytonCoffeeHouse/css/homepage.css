@@ -1,3 +1,28 @@
 body{
 	font-family: Garamond, serif;
 }
+
+header{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: Black;
+	width: 50%;
+	margin: auto;
+}
+
+a[target=nav]{
+	text-decoration: none;
+	color: white;
+}
+
+ul{
+	margin-left: 75%;
+}
+
+li{
+	display: inline;
+}
+
+h1{
+	color: white;
+}
